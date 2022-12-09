@@ -14,8 +14,6 @@ I downloaded the starter code and made the following changes:
 - Placed alt tags before and after source
 - Simplfied the style.css to align with the new HTML corrections
 
-# Usage
-
 # Credits
 
 N/A
