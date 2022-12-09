@@ -20,6 +20,11 @@ I downloaded the starter code and made the following changes:
 
 N/A
 
+# Mock Up
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/119270869/206631793-ebfdab94-9421-4dde-9be7-de32d555e694.png)
+
+
+
 # License
 MIT LICENSE
 
